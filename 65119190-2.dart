@@ -4,7 +4,7 @@ void main() {
   if (number % 2 == 0) {
     print('$number is even');
   } else {
-    print('$number is even');
+    print('$number is odd');
   }
   
   for (int i = 1; i <= 5; i++){
